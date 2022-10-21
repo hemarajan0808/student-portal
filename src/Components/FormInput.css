@@ -1,0 +1,78 @@
+h1 {
+  color: cadetblue;
+  text-align: center;
+  border: 3px solid black;
+  width: 300px;
+  justify-content: center;
+  margin: 0 auto;
+  margin-top: 40px;
+  border-radius: 10px;
+}
+.top-container {
+  margin-top: 40px;
+}
+
+body {
+  background-color: aliceblue;
+}
+
+.main-container {
+  border: 3px cadetblue solid;
+  border-radius: 10px;
+  margin: 0 auto;
+  width: 650px;
+  height: 500px;
+  padding: 15px;
+  margin-top: 70px;
+  font-weight: bold;
+}
+input {
+  box-sizing: border-box;
+  height: 39px;
+  width: 410px;
+  border: 1px solid cadetblue;
+  border-radius: 10px;
+}
+label {
+  height: 30px;
+  width: 210px;
+  color: cadetblue;
+  font-family: "Open Sans";
+  font-size: 16px;
+  line-height: 10px;
+  padding-top: 15px;
+}
+.gender-container {
+  padding-right: 10px;
+}
+.buttons-container {
+  padding: 20px;
+  float: right;
+  padding-right: 235px;
+  padding-top: 5px;
+}
+input[type="radio"] {
+  height: 20px;
+  width: 20px;
+}
+input[type="checkbox"] {
+  height: 20px;
+  width: 20px;
+  border: 2px cadetblue solid;
+}
+
+.register-button,
+.cancel-button {
+  margin-right: 10px;
+  margin-top: 30px;
+}
+select {
+  color: cadetblue;
+  word-wrap: normal;
+  border: 1px solid cadetblue;
+  padding: 3px;
+  margin-bottom: 20px;
+}
+.checkbox-conatiner {
+  margin-top: 20px;
+}
